@@ -1,0 +1,20 @@
+Steam: right-click DOOM Eternal > Properties > General > Launch Options.
+Bethesda.net / Microsoft Store: use the console each session instead (see sharper.cfg).
+
+Profile B (TAA off):
+
++r_antialiasing 0
+
+Profile B plus intro skip:
+
++r_antialiasing 0 +com_skipIntroVideo 1
+
+Linux / Steam Deck with vkBasalt, TAA off:
+
+ENABLE_VKBASALT=1 %command% +r_antialiasing 0
+
+Linux / Steam Deck with vkBasalt, TAA on (Profile A):
+
+ENABLE_VKBASALT=1 %command%
+
+Profile A on Windows needs no launch option at all; it is only menu settings.

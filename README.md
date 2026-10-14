@@ -70,3 +70,7 @@ Win a round or bank enough trick points to earn a Sk8 Case. Open it from the pau
 | `src/main.js` | Rounds, economy, shooting, combos, bomb, camera, input |
 | `src/hud.js`, `src/menus.js`, `src/touch.js` | HUD and radar, menus/buy/cases/inventory, touch controls |
 | `src/textures.js`, `src/models.js`, `src/fx.js`, `src/audio.js` | Procedural textures, low-poly models, particles, synthesized sound |
+
+## Also in this repo
+
+- [`doom-eternal-sharper/`](doom-eternal-sharper/README.md): a sharpness and anti-aliasing tweak pack for DOOM Eternal. Engine settings, launch options and driver features first, with an optional ReShade preset.
